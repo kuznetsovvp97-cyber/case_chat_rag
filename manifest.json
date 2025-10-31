@@ -1,0 +1,27 @@
+{
+  "docset_id": "default",
+  "updated_at": "2025-10-31T12:00:00Z",
+  "documents": [
+    {
+      "id": "doc_001",
+      "title": "Указание № 7118 - У от 30.06.2025",
+      "url": "https://raw.githubusercontent.com/kuznetsovvp97-cyber/case_chat_rag/main/docs/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%E2%84%96%207118%20-%20%D0%A3%20%D0%BE%D1%82%2030.06.2025.pdf",
+      "format": "pdf",
+      "checksum": null
+    },
+    {
+      "id": "doc_002",
+      "title": "7115-у-1",
+      "url": "https://github.com/kuznetsovvp97-cyber/case_chat_rag/raw/refs/heads/main/docs/7115-%D1%83-1.docx",
+      "format": "docx",
+      "checksum": null
+    },
+    {
+      "id": "doc_003",
+      "title": "Положение_ЦБ_РФ_от_22_03_2018_N_635_П_О_порядке_отражения_на_счетах",
+      "url": "https://github.com/kuznetsovvp97-cyber/case_chat_rag/raw/refs/heads/main/docs/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A6%D0%91_%D0%A0%D0%A4_%D0%BE%D1%82_22_03_2018_N_635_%D0%9F_%D0%9E_%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B5_%D0%BE%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%81%D1%87%D0%B5%D1%82%D0%B0%D1%85.rtf",
+      "format": "rtf",
+      "checksum": null
+    }
+  ]
+}
